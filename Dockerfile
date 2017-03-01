@@ -8,9 +8,8 @@ FROM phusion/baseimage:0.9.19
 CMD ["/sbin/my_init"]
 
 # ...put your own build instructions here...
-
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive && apt-get install -y \
-	  wget
+      wget \
       libpython2.7 \
       python-setuptools \
       python-m2crypto \
