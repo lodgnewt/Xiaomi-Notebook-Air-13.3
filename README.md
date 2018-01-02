@@ -1,5 +1,6 @@
 1. [Recommended AHCI/RAID and NVMe Drivers](https://www.win-raid.com/t29f25-Recommended-AHCI-RAID-and-NVMe-Drivers.html)
 - [Intel AHCI/RAID Drivers](https://downloadcenter.intel.com/ru/download/27400/-Intel-Rapid-Storage-Intel-RST-?product=55005)
+https://www.win-raid.com/t2f23-Intel-RST-RSTe-Drivers-newest-v-Beta-v-WHQL.html
 
 - [Samsung NVMe Drivers](http://www.samsung.com/semiconductor/minisite/ssd/download/tools/)
 
