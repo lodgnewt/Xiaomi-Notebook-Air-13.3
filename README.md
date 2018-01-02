@@ -5,4 +5,10 @@
 - B. About Intel (CS)ME Firmware Updates and download Intel-SA-00086 Detection Tool
 - B1. Consumer Systems and download Intel CSME 11.8 Consumer PCH-LP Firmware v11.8.50.3426
 - C2. Intel (CS)ME System Tools and download Intel CSME System Tools v11 r6
-- 
+- extract CSME Firmware and linux/windows FWUpdate tool from Intel CSME System Tools v11 r6 boot from linux live usb
+
+`sudo ./FWUpdLcl -F ME.bin`
+
+or windows
+
+`./FWUpdLcl64.exe -F ME.bin`
