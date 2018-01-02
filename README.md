@@ -20,3 +20,5 @@ or in windows
 - A1. Intel MEI Driver Only download Intel MEI Driver v11.7.0.1058 MEI-Only Installer
 3. [Video Card Intel HD Graphics 520](https://downloadcenter.intel.com/ru/product/80939/-)
 4. [Video Card Nvidia GeForce 940MX](http://www.nvidia.ru/download/driverResults.aspx/128567/ru)
+5. [Wi-Fi Intel Dual Band Wireless-AC 8260](https://downloadcenter.intel.com/ru/download/27309/Wireless--Intel-PROSet-Wireless-Windows-10?product=59485)
+6. [Bluetooth Device](https://downloadcenter.intel.com/ru/download/27391/Intel-Wireless-Bluetooth-Windows-10?product=59485)
