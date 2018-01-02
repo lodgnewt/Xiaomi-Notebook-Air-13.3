@@ -18,3 +18,5 @@ or in windows
 `./FWUpdLcl64.exe -F 11.8.50.3426_CON_LP_C0_NPDM_PRD_RGN.bin`
 
 - A1. Intel MEI Driver Only download Intel MEI Driver v11.7.0.1058 MEI-Only Installer
+3. [Video Card Intel](https://downloadcenter.intel.com/ru/product/80939/-)
+4. [Video card Nvidia GeForce 940MX](http://www.nvidia.ru/download/driverResults.aspx/128567/ru)
