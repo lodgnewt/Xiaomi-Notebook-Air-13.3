@@ -4,9 +4,10 @@ https://www.win-raid.com/t2f23-Intel-RST-RSTe-Drivers-newest-v-Beta-v-WHQL.html
 
 - [Samsung NVMe Drivers](http://www.samsung.com/semiconductor/minisite/ssd/download/tools/)
 
-2. [Intel Management Engine: Drivers, Firmware & System Tools](https://www.win-raid.com/t596f39-Intel-Management-Engine-Drivers-Firmware-amp-System-Tools.html#no_permission_userprofile)
+2. ME
+- [Intel Management Engine: Drivers, Firmware & System Tools](https://www.win-raid.com/t596f39-Intel-Management-Engine-Drivers-Firmware-amp-System-Tools.html#no_permission_userprofile)
+- [Guide: How to update the Intel ME Firmware of the Mi Notebook Air](http://en.miui.com/thread-3260884-1-1.html)
 
-[Guide: How to update the Intel ME Firmware of the Mi Notebook Air](http://en.miui.com/thread-3260884-1-1.html)
 3. [Video Card Intel HD Graphics 520](https://downloadcenter.intel.com/ru/product/88355/Intel-HD-Graphics-520)
 or (https://downloadcenter.intel.com/ru/product/80939/-)
 
